@@ -1,3 +1,3 @@
 ca65 hello.asm
-ld65 -o hello.nes -C hello.cfg hello.o
+ld65 -o hello.nes -C ../nrom128.cfg hello.o
 pause
